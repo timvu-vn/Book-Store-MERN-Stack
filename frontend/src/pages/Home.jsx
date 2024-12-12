@@ -3,7 +3,7 @@ import axios from 'axios';
 import Spinner from '../components/Spinner';
 import { Link } from 'react-router-dom';
 import { MdOutlineAddBox } from 'react-icons/md';
-import BooksTable from '../components/home/BooksTable';
+import BooksTable from '../components/home/BooksTable';   
 import BooksCard from '../components/home/BooksCard';
 
 const Home = () => {
